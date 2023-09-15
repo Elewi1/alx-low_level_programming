@@ -14,7 +14,7 @@ int main(void)
 	for (i = 65; i <= 90; i++)
 	{
 	       	putchar(i);
-	}  || print new line
+	} || print new line
 	putchar('\n');
 	return (0);
 }
